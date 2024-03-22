@@ -1,0 +1,65 @@
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: white !important;
+}
+
+.navbar-nav:first-child {
+    margin-left: 5vw;
+    gap: 5vw;
+}
+
+.navbar-nav {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.navbar-brand {
+    margin-left: 3vw;
+    margin-right: 1vw;
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.navbar-brand:hover {
+    background-color: rgba(69, 145, 91, 0.879);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all ease 0.3s;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: black;
+}
+
+.nav-link:hover {
+    padding: 10px;
+    background-color: rgba(69, 145, 91, 0.879);
+    color: white !important;
+    border-radius: 10px;
+    transition: all ease 0.3s;
+}
+
+.bi {
+    font-size: 1.5rem;
+    margin-right: 0.7vw;
+}
+
+.btn {
+    border: 1px solid rgb(142, 142, 245);
+    color: white;
+}
+.bttnn:hover {
+    background-color: rgba(69, 145, 91, 0.879) !important;
+    color: black !important;
+}
+
+.btn:hover {
+    background-color: transparent;
+}
+
+.d-flex {
+    margin-right: 8vw;
+    margin-left: 0;
+}
